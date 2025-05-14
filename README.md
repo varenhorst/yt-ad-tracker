@@ -17,7 +17,7 @@ All data is stored in Chrome's indexedDb, to reduce the # of fetches.
 * yt-transcripts-api
 ---
 
-Steps: 
+**Steps:** 
 1.) install requiremnts from requirements.txt
 
 2.) Place your Gemini API Key in get_transcripts()
