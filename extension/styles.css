@@ -1,0 +1,8 @@
+.data-marker {
+    background-color: rgba(255, 255, 0, 0.7); /* Semi-transparent yellow */
+    position: absolute;
+    top: -15px;
+    height: 100%;
+    z-index: 1000;
+  }
+  
