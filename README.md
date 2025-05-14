@@ -18,15 +18,15 @@ All data is stored in Chrome's indexedDb, to reduce the # of fetches.
 ---
 
 **Steps:** 
-1.) install requiremnts from requirements.txt
+* 1.) install requiremnts from requirements.txt
 
-2.) Place your Gemini API Key in get_transcripts()
+* 2.) Place your Gemini API Key in get_transcripts()
 
-3.) Run app.py
+* 3.) Run app.py
 
-4.) Load /extention in ( chrome://extensions/ ) -> Load Unpacked
+* 4.) Load /extention in ( chrome://extensions/ ) -> Load Unpacked
 
-5.) Test out a video : ( https://www.youtube.com/watch?v=dwUdFfz75aQ ) 
+* 5.) Test out a video : ( https://www.youtube.com/watch?v=dwUdFfz75aQ ) 
 
 
 
