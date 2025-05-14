@@ -16,3 +16,15 @@ All data is stored in Chrome's indexedDb, to reduce the # of fetches.
 * Chrome Libaries
 * yt-transcripts-api
 ---
+
+Steps: 
+1.) install requiremnts from requirements.txt
+
+2.) Run app.py
+
+3.) Load /extention in ( chrome://extensions/ ) -> Load Unpacked
+
+4.) Test out a video : ( https://www.youtube.com/watch?v=dwUdFfz75aQ ) 
+
+
+
