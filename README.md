@@ -14,7 +14,7 @@ All data is stored in Chrome's indexedDb, to reduce the # of calls to Gemini / y
 * Python / Flask
 * Google GenAI
 * Chrome Libaries
-* yt-transcripts-api
+* youtube-transcripts-api
 ---
 
 **Steps:** 
