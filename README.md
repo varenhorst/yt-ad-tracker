@@ -30,3 +30,4 @@ All data is stored in Chrome's indexedDb, to reduce the # of calls to Gemini / y
 
 
 
+![image](https://github.com/user-attachments/assets/64cbf188-95c8-459d-b0c0-229085356ffa)
