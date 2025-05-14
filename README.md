@@ -3,7 +3,7 @@
 
 Chrome Extension, and Flask Backend. 
 
-This fetches the transcript from the current youtube you are watching if available.
+This fetches the transcript from the current youtube video you are watching if available.
 Then we use these transcripts to detect advertisement timing with Gemini. 
 
 Advertisements are skipped, and shown on the progress bar with a description if available. 
